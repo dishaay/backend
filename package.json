@@ -1,0 +1,15 @@
+{
+  "name": "myproj",
+  "version": "1.0.0",
+  "description": "i am trying to learn node.js here ",
+  "main": "script.js",
+  "scripts": {
+    "test": "node script.js"
+  },
+  "author": "disha yadav",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "random-words": "^2.0.1"
+  }
+}
